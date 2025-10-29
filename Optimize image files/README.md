@@ -120,7 +120,8 @@ Kopiowanie, modyfikowanie, rozpowszechnianie lub wykorzystywanie tego programu w
 
 Użytkowanie programu do celów prywatnych lub komercyjnych wymaga **indywidualnej zgody Damiana Jamrożego**.
 
-📅 Rok: 2025  
+📅 Rok: 2025
+  
 ---
 
 ## 🇬🇧 English Version
