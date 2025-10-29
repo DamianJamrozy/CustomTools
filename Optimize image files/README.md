@@ -111,7 +111,6 @@ Wszystkie tryby stosują:
 ### 👨‍💻 Autor
 **Damian Jamroży**  
 Magister inżynier nauk informatycznych
-📅 Rok: 2025  
 
 ---
 
@@ -121,6 +120,7 @@ Kopiowanie, modyfikowanie, rozpowszechnianie lub wykorzystywanie tego programu w
 
 Użytkowanie programu do celów prywatnych lub komercyjnych wymaga **indywidualnej zgody Damiana Jamrożego**.
 
+📅 Rok: 2025  
 ---
 
 ## 🇬🇧 English Version
@@ -175,7 +175,7 @@ All modes use:
 ### 👨‍💻 Author
 **Damian Jamroży**  
 M.Sc. Eng. in Computer Science 
-📅 Year: 2025  
+
 
 ---
 
@@ -184,3 +184,5 @@ All rights reserved © 2025 **Damian Jamroży**.
 Copying, modifying, redistributing, or using this program in any form without the **written consent of the author** is strictly prohibited.
 
 Use of this program for private or commercial purposes requires **individual permission from Damian Jamroży**.
+
+📅 Year: 2025  
